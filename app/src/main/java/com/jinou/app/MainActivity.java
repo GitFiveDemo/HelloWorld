@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
          *
          *
          * 众里寻他千百度
+         *
+         *
+         * .ignore插件加上Project打不开
          */
     }
 }
