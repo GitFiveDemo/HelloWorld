@@ -2,7 +2,6 @@ package com.jinou.app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     @Override
@@ -14,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         *老石
         *老许
         *老王
+        *老胖
         * 开会啦！
         * */
     }
