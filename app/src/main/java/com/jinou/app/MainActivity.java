@@ -13,15 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG, "onCreate: ");
         Log.d(TAG, "onCreate: ");
+
         /**
-         *
-         * .ignore插件加上Project打不开
-         *
-         *
-         * 众里寻他千百度
-         *
-         *
-         * .ignore插件加上Project打不开
+         * I am the hope of the whole village
          */
     }
 }
