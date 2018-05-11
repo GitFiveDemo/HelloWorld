@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        barColorWhenSelected="#00aca0"
+        id="@+id/tab_consult"
+        icon="@drawable/main_menu_cntech"
+        title="咨询" />
+
+    <tab
+        icon="@drawable/main_menu_contact"
+        id="@+id/tab_cnTech"
+        barColorWhenSelected="#7B1FA2"
+        title="科技圈" />
+
+
+    <tab
+        id="@+id/tab_contacts"
+        barColorWhenSelected="#FF5252"
+        icon="@drawable/main_menu_chat"
+        title="通讯录" />
+    <tab
+        barColorWhenSelected="#FF9800"
+        id="@+id/tab_mine"
+        icon="@drawable/main_menu_mine"
+        title="我的" />
+</tabs>
