@@ -3,8 +3,9 @@
     package="com.jinou.app">
 
     <application
+        android:name=".application.CGApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/app_logo"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
