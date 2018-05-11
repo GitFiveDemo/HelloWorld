@@ -30,4 +30,13 @@ dependencies {
     implementation 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation 'com.android.support:design:27.1.1'
+    //添加retrofit依赖
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    //添加gson转换器的依赖
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    //rxjava2
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+    implementation "io.reactivex.rxjava2:rxjava:2.1.10"
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.5.0'
 }
