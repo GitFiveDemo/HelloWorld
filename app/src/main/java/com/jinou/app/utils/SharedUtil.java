@@ -3,7 +3,8 @@ package com.jinou.app.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.bw.production.kjbd.view.application.CGApplication;
+import com.jinou.app.application.CGApplication;
+
 
 /**
  * author: ShiChenguang
