@@ -16,7 +16,7 @@
         android:textColor="#FFFFFF"
         android:id="@+id/main_title"
         android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        android:layout_height="50pt" />
 
     <FrameLayout
         android:id="@+id/main_frame_group"
@@ -31,6 +31,6 @@
         android:background="#FF00ff"
         android:id="@+id/main_bottom_bar"
         android:layout_width="match_parent"
-        android:layout_height="50dp"/>
+        android:layout_height="50pt"/>
 
 </LinearLayout>
